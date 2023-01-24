@@ -1,0 +1,192 @@
+[
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 1,
+        "fields": {
+            "optionCorrect": "Espero que",
+            "option2": "Hablo",
+            "option3": "Esperas que",
+            "option4": "Hablas"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 2,
+        "fields": {
+            "optionCorrect": "llegues",
+            "option2": "busco",
+            "option3": "buscamos",
+            "option4": "llega"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 3,
+        "fields": {
+            "optionCorrect": "pronto",
+            "option2": "tarde",
+            "option3": "despacio",
+            "option4": "furiosamente"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 4,
+        "fields": {
+            "optionCorrect": "Ella",
+            "option2": "El",
+            "option3": "Nosotros",
+            "option4": "Yo"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 5,
+        "fields": {
+            "optionCorrect": "me",
+            "option2": "le",
+            "option3": "la",
+            "option4": "te"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 6,
+        "fields": {
+            "optionCorrect": "lo",
+            "option2": "las",
+            "option3": "me",
+            "option4": "le"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 7,
+        "fields": {
+            "optionCorrect": "vende",
+            "option2": "vendo",
+            "option3": "compra",
+            "option4": "compro"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 8,
+        "fields": {
+            "optionCorrect": "¿Cuándo",
+            "option2": "¿Por que",
+            "option3": "¿Dónde",
+            "option4": "¿Cómo"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 9,
+        "fields": {
+            "optionCorrect": "llegan?",
+            "option2": "venden?",
+            "option3": "llegas?",
+            "option4": "vendes?"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 10,
+        "fields": {
+            "optionCorrect": "¿Cuándo",
+            "option2": "¿Por que",
+            "option3": "¿Dónde",
+            "option4": "¿Cómo"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 11,
+        "fields": {
+            "optionCorrect": "llegan?",
+            "option2": "venden?",
+            "option3": "llegas?",
+            "option4": "vendes?"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 12,
+        "fields": {
+            "optionCorrect": "Debe",
+            "option2": "Debemos",
+            "option3": "Busca",
+            "option4": "Buscas"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 13,
+        "fields": {
+            "optionCorrect": "buscarlo",
+            "option2": "deberlo",
+            "option3": "deberte",
+            "option4": "buscarte"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 14,
+        "fields": {
+            "optionCorrect": "Debo",
+            "option2": "Hablo",
+            "option3": "Hablas",
+            "option4": "Deben"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 15,
+        "fields": {
+            "optionCorrect": "decírtelo",
+            "option2":  "decírlelo",
+            "option3": "decírmelo",
+            "option4": "decírnoslo"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 16,
+        "fields": {
+            "optionCorrect": "Debes",
+            "option2": "Debe",
+            "option3": "Tienes que",
+            "option4": "Tiene que"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 17,
+        "fields": {
+            "optionCorrect": "escribirlo",
+            "option2": "escribirte",
+            "option3": "venderlo",
+            "option4": "venderte"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 18,
+        "fields": {
+            "optionCorrect": "Esperan que",
+            "option2": "Esperamos que",
+            "option3": "Espero que",
+            "option4": "Esperas que"
+        }
+    },
+    {
+        "model": "mosaicaapi.responseSet",
+        "pk": 19,
+        "fields": {
+            "optionCorrect": "hablemos",
+            "option2": "hablamos",
+            "option3": "hablan",
+            "option4": "hablen"
+        }
+    }
+]
