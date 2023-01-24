@@ -9,7 +9,7 @@
             "aspect1": 1,
             "aspect2": 2,
             "aspect3": 3,
-            "aspect4": 0
+            "aspect4": null
         }
     },
     {
@@ -34,8 +34,8 @@
             "spanish": "¿Cuándo llegan?",
             "aspect1": 8,
             "aspect2": 9,
-            "aspect3": 0,
-            "aspect4": 0
+            "aspect3": null,
+            "aspect4": null
         }
     },
     {
@@ -47,8 +47,8 @@
             "spanish": "¿Cuándo llegan?",
             "aspect1": 10,
             "aspect2": 11,
-            "aspect3": 0,
-            "aspect4": 0
+            "aspect3": null,
+            "aspect4": null
         }
     },
     {
@@ -60,8 +60,8 @@
             "spanish": "Debe buscarlo",
             "aspect1": 12,
             "aspect2": 13,
-            "aspect3": 0,
-            "aspect4": 0
+            "aspect3": null,
+            "aspect4": null
         }
     },
     {
@@ -73,8 +73,8 @@
             "spanish": "Debo decírtelo",
             "aspect1": 14,
             "aspect2": 15,
-            "aspect3": 0,
-            "aspect4": 0
+            "aspect3": null,
+            "aspect4": null
         }
     },
     {
@@ -86,8 +86,8 @@
             "spanish": "Debes escribirlo",
             "aspect1": 16,
             "aspect2": 17,
-            "aspect3": 0,
-            "aspect4": 0
+            "aspect3": null,
+            "aspect4": null
         }
     },
     {
@@ -99,8 +99,8 @@
             "spanish": "Esperan que hablemos",
             "aspect1": 18,
             "aspect2": 19,
-            "aspect3": 0,
-            "aspect4": 0
+            "aspect3": null,
+            "aspect4": null
         }
     }
 ]
