@@ -6,10 +6,10 @@
             "tile_id": 1,
             "english": "I hope you arrive soon",
             "spanish": "Espero que llegues pronto",
-            "aspect1": ["Espero que", "Hablo", "Esperas que", "Hablas"],
-            "aspect2": ["llegues", "busco", "buscamos", "llega"],
-            "aspect3": ["pronto", "tarde", "despacio", "furiosamente"],
-            "aspect4": 0
+            "aspect1": 1,
+            "aspect2": 2,
+            "aspect3": 3,
+            "aspect4": null
         }
     },
     {
@@ -19,10 +19,10 @@
             "tile_id": 1,
             "english": "She sells it to me",
             "spanish": "Ella me lo vende",
-            "aspect1": ["Ella", "El", "Nosotros", "Yo"],
-            "aspect2": ["me", "le", "la", "te"],
-            "aspect3": ["lo", "las", "me", "le"],
-            "aspect4": [ "vende", "vendo", "compra", "compro"]
+            "aspect1": 4,
+            "aspect2": 5,
+            "aspect3": 6,
+            "aspect4": 7
         }
     },
     {
@@ -32,10 +32,10 @@
             "tile_id": 1,
             "english": "When do they arrive?",
             "spanish": "¿Cuándo llegan?",
-            "aspect1": ["¿Cuándo", "¿Por que", "¿Dónde", "¿Cómo"],
-            "aspect2": ["llegan?", "venden?", "llegas?", "vendes?"],
-            "aspect3": 0,
-            "aspect4": 0
+            "aspect1": 8,
+            "aspect2": 9,
+            "aspect3": null,
+            "aspect4": null
         }
     },
     {
@@ -45,10 +45,10 @@
             "tile_id": 1,
             "english": "When do they arrive?",
             "spanish": "¿Cuándo llegan?",
-            "aspect1": ["¿Cuándo", "¿Por que", "¿Dónde", "¿Cómo"],
-            "aspect2": ["llegan?", "venden?", "llegas?", "vendes?"],
-            "aspect3": 0,
-            "aspect4": 0
+            "aspect1": 10,
+            "aspect2": 11,
+            "aspect3": null,
+            "aspect4": null
         }
     },
     {
@@ -58,10 +58,10 @@
             "tile_id": 1,
             "english": "He must search for it",
             "spanish": "Debe buscarlo",
-            "aspect1": ["Debe", "Debemos", "Busca", "Buscas"],
-            "aspect2": ["buscarlo", "deberlo", "deberte", "buscarte"],
-            "aspect3": 0,
-            "aspect4": 0
+            "aspect1": 12,
+            "aspect2": 13,
+            "aspect3": null,
+            "aspect4": null
         }
     },
     {
@@ -71,10 +71,10 @@
             "tile_id": 1,
             "english": "I must tell you it",
             "spanish": "Debo decírtelo",
-            "aspect1": ["Debo", "Hablo", "Hablas", "Deben"],
-            "aspect2": ["decírtelo", "decírlelo", "decírmelo", "decírnoslo"],
-            "aspect3": 0,
-            "aspect4": 0
+            "aspect1": 14,
+            "aspect2": 15,
+            "aspect3": null,
+            "aspect4": null
         }
     },
     {
@@ -84,10 +84,10 @@
             "tile_id": 1,
             "english": "You must write it",
             "spanish": "Debes escribirlo",
-            "aspect1": ["Debes", "Debe", "Tienes que", "Tiene que"],
-            "aspect2": ["escribirlo", "escribirte", "venderlo", "venderte"],
-            "aspect3": 0,
-            "aspect4": 0
+            "aspect1": 16,
+            "aspect2": 17,
+            "aspect3": null,
+            "aspect4": null
         }
     },
     {
@@ -97,10 +97,10 @@
             "tile_id": 1,
             "english": "They hope we talk",
             "spanish": "Esperan que hablemos",
-            "aspect1": ["Esperan que", "Esperamos que", "Espero que", "Esperas que"],
-            "aspect2": ["hablemos", "hablamos", "hablan", "hablen"],
-            "aspect3": 0,
-            "aspect4": 0
+            "aspect1": 18,
+            "aspect2": 19,
+            "aspect3": null,
+            "aspect4": null
         }
     }
 ]

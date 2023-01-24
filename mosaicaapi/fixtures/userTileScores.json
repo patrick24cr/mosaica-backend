@@ -1,0 +1,227 @@
+[
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 1,
+        "fields": {
+            "score": 7,
+            "tile": 1,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 2,
+        "fields": {
+            "score": 6,
+            "tile": 2,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 3,
+        "fields": {
+            "score": 7,
+            "tile": 3,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 4,
+        "fields": {
+            "score": 4,
+            "tile": 4,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 5,
+        "fields": {
+            "score": 3,
+            "tile": 5,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 6,
+        "fields": {
+            "score": 5,
+            "tile": 6,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 7,
+        "fields": {
+            "score": 4,
+            "tile": 7,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 8,
+        "fields": {
+            "score": 3,
+            "tile": 8,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 9,
+        "fields": {
+            "score": 3,
+            "tile": 9,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 10,
+        "fields": {
+            "score": 3,
+            "tile": 10,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 11,
+        "fields": {
+            "score": 4,
+            "tile": 11,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 12,
+        "fields": {
+            "score": 3,
+            "tile": 12,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 13,
+        "fields": {
+            "score": 4,
+            "tile": 13,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 14,
+        "fields": {
+            "score": 2,
+            "tile": 14,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 15,
+        "fields": {
+            "score": 2,
+            "tile": 15,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 16,
+        "fields": {
+            "score": 4,
+            "tile": 16,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 17,
+        "fields": {
+            "score": 5,
+            "tile": 17,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 18,
+        "fields": {
+            "score": 2,
+            "tile": 18,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 19,
+        "fields": {
+            "score": 3,
+            "tile": 19,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 20,
+        "fields": {
+            "score": 1,
+            "tile": 20,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 21,
+        "fields": {
+            "score": 5,
+            "tile": 21,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 22,
+        "fields": {
+            "score": 4,
+            "tile": 22,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 23,
+        "fields": {
+            "score": 3,
+            "tile": 23,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 24,
+        "fields": {
+            "score": 2,
+            "tile": 24,
+            "user": 1
+        }
+    },
+    {
+        "model": "mosaicaapi.userTileScore",
+        "pk": 25,
+        "fields": {
+            "score": 7,
+            "tile": 25,
+            "user": 1
+        }
+    }
+]
