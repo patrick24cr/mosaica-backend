@@ -24,7 +24,7 @@ def check_user(request):
         }
         print(data)
         return Response(data)
-    except ValueError:
+    except:
         # Bad login details were provided. So we can't log the user in.
         data = { 'valid': False }
         return Response(data)
