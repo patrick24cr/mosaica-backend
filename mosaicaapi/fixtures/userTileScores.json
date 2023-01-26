@@ -219,7 +219,7 @@
         "model": "mosaicaapi.userTileScore",
         "pk": 25,
         "fields": {
-            "score": 7,
+            "score": 1,
             "tile": 25,
             "user": 1
         }

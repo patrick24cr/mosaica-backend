@@ -22,7 +22,6 @@ def check_user(request):
             'id': user.id,
             'uid': user.uid,
         }
-        print(data)
         return Response(data)
     except:
         # Bad login details were provided. So we can't log the user in.
