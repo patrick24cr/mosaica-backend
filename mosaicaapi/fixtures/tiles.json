@@ -3,175 +3,175 @@
         "model": "mosaicaapi.tile",
         "pk": 1,
         "fields": {
-            "name": "A1"
+            "name": "a1"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 2,
         "fields": {
-            "name": "A2"
+            "name": "a2"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 3,
         "fields": {
-            "name": "A3"
+            "name": "a3"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 4,
         "fields": {
-            "name": "A4"
+            "name": "a4"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 5,
         "fields": {
-            "name": "A5"
+            "name": "a5"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 6,
         "fields": {
-            "name": "B1"
+            "name": "b1"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 7,
         "fields": {
-            "name": "B2"
+            "name": "b2"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 8,
         "fields": {
-            "name": "B3"
+            "name": "b3"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 9,
         "fields": {
-            "name": "B4"
+            "name": "b4"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 10,
         "fields": {
-            "name": "B5"
+            "name": "b5"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 11,
         "fields": {
-            "name": "C1"
+            "name": "c1"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 12,
         "fields": {
-            "name": "C2"
+            "name": "c2"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 13,
         "fields": {
-            "name": "C3"
+            "name": "c3"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 14,
         "fields": {
-            "name": "C4"
+            "name": "c4"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 15,
         "fields": {
-            "name": "C5"
+            "name": "c5"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 16,
         "fields": {
-            "name": "D1"
+            "name": "d1"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 17,
         "fields": {
-            "name": "D2"
+            "name": "d2"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 18,
         "fields": {
-            "name": "D3"
+            "name": "d3"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 19,
         "fields": {
-            "name": "D4"
+            "name": "d4"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 20,
         "fields": {
-            "name": "D5"
+            "name": "d5"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 21,
         "fields": {
-            "name": "E1"
+            "name": "e1"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 22,
         "fields": {
-            "name": "E2"
+            "name": "e2"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 23,
         "fields": {
-            "name": "E3"
+            "name": "e3"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 24,
         "fields": {
-            "name": "E4"
+            "name": "e4"
         }
     },
     {
         "model": "mosaicaapi.tile",
         "pk": 25,
         "fields": {
-            "name": "E5"
+            "name": "e5"
         }
     }
 ]
