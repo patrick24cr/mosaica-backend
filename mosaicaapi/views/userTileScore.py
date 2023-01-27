@@ -1,4 +1,5 @@
 from django.http import HttpResponseServerError
+from django.utils import timezone, dateformat
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
@@ -40,14 +41,15 @@ class UserTileScoreView(ViewSet):
         userTileScore = UserTileScore.objects.get(pk=pk)
 
         userTileScore.score=request.data["score"]
-        userTileScore.date=request.data[""]
+        userTileScore.date=dateformat.format(timezone.now(), 'Y-m-d H:i:s')
         userTileScore.save()
         
         return Response(None, status=status.HTTP_204_NO_CONTENT)
     
     def destroy(self, request, pk):
-        userTileScore = UserTileScore.objects.get(pk=pk)
-        userTileScore.delete()
+        userTileScores = UserTileScore.objects.all()
+        userTileScores = userTileScores.filter(user=pk)
+        userTileScores.delete()
         return Response(None, status=status.HTTP_204_NO_CONTENT)  
 
 class UserTileScoreserializer(serializers.ModelSerializer):
