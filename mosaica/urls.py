@@ -18,12 +18,13 @@ from django.urls import path
 from django.conf.urls import include
 from rest_framework import routers
 from mosaicaapi.views import register_user, check_user
-from mosaicaapi.views import UserView, UserTileScoreView, QuestionView
+from mosaicaapi.views import UserView, UserTileScoreView, QuestionView, BadQuestionReportView
 
 router = routers.DefaultRouter(trailing_slash=False)
 router.register(r'users', UserView, 'user')
 router.register(r'userTileScores', UserTileScoreView, 'user')
 router.register(r'questions', QuestionView, 'question')
+router.register(r'badQuestionReports', BadQuestionReportView, 'badQuestionReport')
 
 urlpatterns = [
     path('register', register_user),

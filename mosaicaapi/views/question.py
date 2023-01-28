@@ -18,5 +18,5 @@ class QuestionView(ViewSet):
 class Questionserializer(serializers.ModelSerializer):
     class Meta:
         model = Question
-        fields = ('english', 'spanish', 'aspect1', 'aspect2', 'aspect3', 'aspect4')
+        fields = ('id', 'english', 'spanish', 'aspect1', 'aspect2', 'aspect3', 'aspect4')
         depth = 1
